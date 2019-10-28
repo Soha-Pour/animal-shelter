@@ -1,4 +1,28 @@
+.header {
+  text-align: center;
+}
+
+.header p {
+  font-style: italic;
+}
+
+.header h1 {
+  background-color: #A96CB2;
+}
+
 .column {
   width: 300px;
   float: left;
+}
+
+.column h3 {
+  font-size: 20px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.dog-name {
+  font-style: italic;
 }
